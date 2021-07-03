@@ -1,0 +1,50 @@
+D			&nbsp&nbspG
+Lehet,&nbsphogy&nbspmost&nbspkezdôdik&nbspminden
+			&nbsp&nbspD
+Lehet,&nbsphogy&nbspmost&nbspkezdôdik&nbspel
+A
+Lassan&nbspébred&nbspmár&nbspa&nbsphajnal
+	&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp	&nbsp&nbspD
+A&nbspnapsugárral&nbspérkezem
+D		&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspG
+Ne&nbspmondj&nbspsemmit,&nbspúgyis&nbspértem
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspD
+A&nbspszemed&nbspelárulta&nbspmár
+A
+Ne&nbspmondd&nbspel,&nbsphogy&nbspmiért&nbspjöttél
+		&nbsp&nbsp&nbsp&nbsp&nbspD
+Tudom,&nbsphogy&nbspmást&nbspakartál
+Lehet,&nbsphogy&nbspmost&nbspkezdôdik...
+Hm		&nbspE
+Ne&nbspkérdezd&nbsptôlem,&nbsphogy&nbspki&nbspaz&nbspaki&nbsplát
+G		&nbsp&nbspD
+Titkaid&nbspnincsenek,&nbspne&nbspvidd&nbsptovább
+Hm		&nbspE
+Ne&nbspkérdezd&nbsptôlem,&nbsphogy&nbsphol&nbsprontod&nbspel
+G	&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspD
+Ahova&nbspindultál,&nbspoda&nbspérkezel
+D			Em
+Adj&nbsperôt&nbspés&nbspadj&nbspidôt&nbspnekem
+&nbsp&nbsp&nbspA				&nbsp&nbspD
+Ha&nbspsenki&nbspnem&nbspjön,&nbspte&nbspmaradj&nbspitt&nbspvelem
+D				Em
+Segíts&nbsprajtam,&nbsphogy&nbspne&nbsptévedjek&nbspel
+A			&nbsp&nbspD
+Emelj&nbspfel,&nbspmagadhoz&nbspemelj&nbspfel
+Hm		&nbspE
+Ne&nbspkérdezd&nbsptôlem,&nbsphogy&nbspki&nbspaz&nbspaki&nbsplát
+G		&nbsp&nbspD
+Titkaid&nbspnincsenek,&nbspne&nbspvidd&nbsptovább
+Hm		&nbspE
+Ne&nbspkérdezd&nbsptôlem,&nbsphogy&nbsphol&nbsprontod&nbspel
+G	&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspD
+Ahova&nbspindultál,&nbspoda&nbspérkezel
+(5x&nbsp)
+D			Em
+Adj&nbsperôt&nbspés&nbspadj&nbspidôt&nbspnekem
+&nbsp&nbsp&nbspA				&nbsp&nbspD
+Ha&nbspsenki&nbspnem&nbspjön,&nbspte&nbspmaradj&nbspitt&nbspvelem
+D				Em
+Segíts&nbsprajtam,&nbsphogy&nbspne&nbsptévedjek&nbspel
+A			&nbsp&nbspD
+Emelj&nbspfel,&nbspmagadhoz&nbspemelj&nbspfel
